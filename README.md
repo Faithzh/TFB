@@ -8,13 +8,9 @@
 
 | dataset           | model     |  5-way acc.   | all-way acc. | 
 |----------------|:-----------:|:--------------:|:--------------:|
-| LIVING-17      | ResNet-50 | 89.23 ± 0.55 | 45.14 ± 0.12 |
-| NONLIVING-26   | ResNet-50 | 86.23 ± 0.54 | 43.10 ± 0.11 |
-| ENTITY-13      | ResNet-50 | 90.58 ± 0.54 | 42.29 ± 0.08 | 
-| ENTITY-30      | ResNet-50 | 88.12 ± 0.54 | 41.79 ± 0.08 | 
-| CIFAR-100      | ResNet-12 | 74.56 ± 0.70 | 29.84 ± 0.11 |
-| tieredImageNet | ResNet-12 | 63.54 ± 0.70 | 11.97 ± 0.06 |
-
-Code will coming soon!
-
-
+| LIVING-17      | ResNet-50 | 91.89 ± 0.54 | 53.42 ± 0.12 |
+| NONLIVING-26   | ResNet-50 | 90.35 ± 0.53 | 49.74 ± 0.11 |
+| ENTITY-13      | ResNet-50 | 91.56 ± 0.54 | 43.23 ± 0.08 | 
+| ENTITY-30      | ResNet-50 | 91.73 ± 0.54 | 45.03 ± 0.08 | 
+| CIFAR-100      | ResNet-12 | 84.15 ± 0.70 | 39.03 ± 0.11 |
+| tieredImageNet | ResNet-12 | 63.15 ± 0.69 | 12.98 ± 0.06 |
