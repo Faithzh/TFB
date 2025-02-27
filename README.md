@@ -2,8 +2,7 @@
 
 >TheCoarse-to-Fine Few-Shot (C2FS) task is designed to train models using only coarse labels, then leverages an extremely small number of subclass examples to achieve fine-grained recognition capabilities. Intuitively, it is particularly challenging as coarse-grained supervised pre-training leads to the reduction of fine-grained features which are essential for subcategory separation, and the learned models are prone to overfitting due to the biased distributions formed by a few samples. In this paper, we propose a tailored method that calibrates biased distributions caused by a few fine labeled examples by incorporating coarse labeled features enriched with fine-grained attributes. Specifically, we first enhance the embeddings with fine-grained information using multi-layer fusion reconstruction and intermediate layer feature alignment. By fully leveraging the hierarchical relationship between coarse and fine labels, we subsequently augment the fine-grained classifier’s input with readily available coarsegrained sample embeddings, effectively calibrating the biased distributions formed within the few-shot context. Extensive experiments conducted on five benchmark datasets demonstrate the efficacy of our approach, achieving state-of-the-art results that surpass competitive methods.
 
-![image](https://github.com/user-attachments/assets/134218c7-7a58-402b-9849-1fe44b2f2dd7)
-
+![图片3](https://github.com/user-attachments/assets/b6e077f6-5895-444a-aef6-2a000aa32fe6)
 
 ### Main results
 
