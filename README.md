@@ -14,3 +14,5 @@
 | ENTITY-30      | ResNet-50 | 91.73 ± 0.54 | 45.03 ± 0.08 | 
 | CIFAR-100      | ResNet-12 | 84.15 ± 0.70 | 39.03 ± 0.11 |
 | tieredImageNet | ResNet-12 | 63.15 ± 0.69 | 12.98 ± 0.06 |
+
+The code is released after the formal publication of the paper
